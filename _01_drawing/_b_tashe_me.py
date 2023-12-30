@@ -1,4 +1,5 @@
 import turtle
+import PIL
 from PIL import Image
 
 # ================= Instructions at the bottom of this file ===================
